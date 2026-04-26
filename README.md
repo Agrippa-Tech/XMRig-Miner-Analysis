@@ -2,7 +2,7 @@
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-7.0+-blue)](https://github.com/PowerShell/PowerShell)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
-[![Plataforma](https://img.shields.io/badge/plataforma-Windows-lightgrey)](https://www.microsoft.com/windows)
+[![Plataforma](https://img.shields.io/badge/Plataforma-Windows-lightgrey)](https://www.microsoft.com/windows)
 
 Sistema completo de monitoramento de hardware e mineração XMRig em tempo real, com dashboards no terminal, exportação de dados para CSV, geração automática de relatórios e backup para OneDrive.
 
